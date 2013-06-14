@@ -7,7 +7,7 @@ import base64
 import string
 
 
-KEY = 'a secret string'
+KEY = 'a secret string' # customize this key string
 DIGESTMOD = 'sha1' # support: 'md5', 'sha1', 'sha224', 'sha256', 'sha384', 'sha512'
 
 
